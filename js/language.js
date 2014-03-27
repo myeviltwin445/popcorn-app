@@ -137,7 +137,8 @@ App.Localization.languages = {
     },
     "da": {
         display: "Dansk",
-        subtitle: true
+        subtitle: true,
+        encoding: ['iso-8859-1']
     },
     "de": {
         display: "Deutsch",
